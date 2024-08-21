@@ -1,6 +1,5 @@
-# fitbit-data-analysis
-FitBit Data Analysis
-**This Data Analysis is part of the Google Capstone Project for the Professional Data Analytics Certificate
+# FitBit Data Analysis
+This Data Analysis is part of the Google Capstone Project for the **Google Professional Data Analytics Certificate**
 
 https://www.kaggle.com/code/joaobarboza/fitibit-data-analysis-jp
 
@@ -14,7 +13,7 @@ Business Task: Analyse how people use their smart devices and try to find trends
 
 Summary
 
-In this analysis we've have found through the data that as more active they are, more calories they burn. Also the most active days of the week are Saturday and Tuesday, and interestingly the days that people sleep more are Sunday and Wednesday. In addition there is a positive correlation between time spent in bed and minutes of sleep. Last but not least, an important data is that 16% of the people are Sedentary (based on our ranking counting total steps).
+In this analysis we've have found through the data that as more active they are, more calories they burn. Also the most active days of the week are Saturday and Tuesday, and interestingly the days that people sleep more are Sunday and Wednesday. In addition there is a positive correlation between time spent in bed and minutes of sleep. Last but not least, an important data is that **16% of the people are Sedentary** (based on our ranking counting total steps).
 
 Tools used for analysis:
 #Python #Googlesheets
